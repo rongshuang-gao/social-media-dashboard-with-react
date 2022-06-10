@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/social-media-dashboard-with-react/static/css/main.a213e589.css",
+    "main.js": "/social-media-dashboard-with-react/static/js/main.d39e944e.js",
+    "index.html": "/social-media-dashboard-with-react/index.html",
+    "main.a213e589.css.map": "/social-media-dashboard-with-react/static/css/main.a213e589.css.map",
+    "main.d39e944e.js.map": "/social-media-dashboard-with-react/static/js/main.d39e944e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a213e589.css",
+    "static/js/main.d39e944e.js"
+  ]
+}
